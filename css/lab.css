@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+body {
+  font-family: 'MedievalSharp', serif;
+  background-image: url(../image/scroll.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+  margin: 0px -1px;
+}
+.navbar {
+  background-color: #de142c !important;
+}
+.nav-link {
+  color: white !important;
+}
+header {
+ text-align: center;
+}
+p {
+  background-color: #fefeda;
+  color: black;
+}
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 220px;
+    margin: auto;
+}
+
+img {
+
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
